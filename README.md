@@ -1,4 +1,4 @@
 # DummyRepo
 This is my first Git repo
 <br>
-Author : Shivam Kumar
+Author : Shivam Kumar jha
